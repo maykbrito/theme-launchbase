@@ -18,7 +18,7 @@
 
 > Launchbase theme for vscode
 
-<img src="https://i.imgur.com/NcrS1bZ.png">
+<img src="https://i.imgur.com/KCT77dn.png">
 
 ### 🏠 [Homepage](https://github.com/maykbrito/theme-launchbase.git)
 
@@ -30,7 +30,7 @@
 
 Install it from VS Code extensions.
 
->Open VS Code extensions and type `Launchbase Theme`. 
+>Open VS Code extensions and type `Launchbase Theme`.
 
 ## Author
 
