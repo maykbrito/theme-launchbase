@@ -16,7 +16,7 @@
   </a>
 </p>
 
-> Experimental theme based on Launchbase colors. [Thanks Tiago Luchtenberg](https://www.linkedin.com/in/tiago-luchtenbaerg-0b9a3b97/)
+> Experimental theme based on Launchbase colors. [Thanks Tiago Luchtenberg](https://www.linkedin.com/in/tiago-luchtenberg-0b9a3b97)
 
 <img src="https://i.imgur.com/KCT77dn.png">
 
