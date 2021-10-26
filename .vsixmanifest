@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="theme-launchbase" Version="0.0.1" Publisher="maykbrito"/>
+    <Identity Language="en-US" Id="theme-launchbase" Version="0.0.4" Publisher="maykbrito"/>
     <DisplayName>Launchbase</DisplayName>
     <Description xml:space="preserve">A dark theme made by Maykbrito</Description>
     <Tags>launchbase,maykbrito,theme,color-theme,rocketseat</Tags>

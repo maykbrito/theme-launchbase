@@ -1,34 +1,34 @@
 {
-	"name": "theme-launchbase",
-	"version": "0.0.3",
-	"displayName": "Launchbase Theme",
-	"homepage": "https://github.com/maykbrito/theme-launchbase.git",
-	"description": "Launchbase theme for vscode",
-	"publisher": "maykbrito",
-	"author": "Mayk Brito",
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/maykbrito/theme-launchbase.git"
-	},
-	"engines": {
-		"vscode": "^1.12.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"icon": "icon.png",
-	"galleryBanner": {
-		"color": "#262327",
-		"theme": "dark"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Launchbase Theme",
-				"uiTheme": "vs-dark",
-				"path": "./theme/launchbase.json"
-			}
-		]
-	}
+  "name": "theme-launchbase",
+  "version": "0.0.4",
+  "displayName": "Launchbase Theme",
+  "homepage": "https://github.com/maykbrito/theme-launchbase.git",
+  "description": "Launchbase theme for vscode",
+  "publisher": "maykbrito",
+  "author": "Mayk Brito",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maykbrito/theme-launchbase.git"
+  },
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#262327",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Launchbase Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme/launchbase.json"
+      }
+    ]
+  }
 }
